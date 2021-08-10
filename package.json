@@ -1,0 +1,31 @@
+{
+  "name": "sequelize-mysql",
+  "version": "1.0.0",
+  "description": "Simple Node CRUD API with sequelize MySQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiliprhimo/node_mysql_sequelize.git"
+  },
+  "keywords": [
+    "node",
+    "sequelize",
+    "mysql",
+    "rhimo"
+  ],
+  "author": "Rhimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiliprhimo/node_mysql_sequelize/issues"
+  },
+  "homepage": "https://github.com/thiliprhimo/node_mysql_sequelize#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0",
+    "sequelize": "^6.6.5"
+  }
+}
